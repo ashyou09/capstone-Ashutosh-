@@ -177,13 +177,11 @@ nav {
         grid-template-columns: 1fr;
     }
 }
-
-/* Add hover effect to nav links */
 .nav-links a:hover {
     color: #9b6b9d;
 }
 
-/* Add animation for gallery items */
+/* animation for gallery items */
 .gallery-item {
     animation: fadeIn 0.8s ease-out forwards;
 }
