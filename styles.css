@@ -168,6 +168,10 @@ nav {
     font-size: 1.25rem;
     font-weight: 400;    
 }
+.follow-btn:active {
+    background-color: #aba9a999;
+    width : 145px;
+}
 
 
 
